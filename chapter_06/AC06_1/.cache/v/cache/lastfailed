@@ -1,5 +1,0 @@
-{
-  "AC06_1.py::Test_ATM::test_amounts_updated": true,
-  "AC06_1.py::Test_ATM::test_balance": true,
-  "AC06_1.py::Test_ATM::test_verify_error": true
-}
